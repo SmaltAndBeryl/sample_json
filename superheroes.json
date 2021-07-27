@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Batman",
+    "universe": "DC",
+    "strengths": "Genius-Level Intellect, Weapons Master, Martial Arts Master",
+    "groupAffiliation": "Justice League, Batman Family, Batman Incorporated,Outsiders"
+  },
+  {
+    "name": "Black Widow",
+    "universe": "Marvel",
+    "strengths": "Slowed Aging, Superhuman Durability",
+    "groupAffiliation": "Avengers, S.H.I.E.L.D., Secret Avengers"
+  },
+  {
+    "name": "Deadpool",
+    "universe": "Marvel",
+    "strengths": "Hand-to-Hand Combat, Healing Factor, Immortality, Superior Marksmanship",
+    "groupAffiliation": "Fightful Four"
+  },
+  {
+    "name": "Dr. Strange",
+    "universe": "Marvel",
+    "strengths": "Magic, Martial Artist, Energy Manipulation, Teleportation, Chronokinesis",
+    "groupAffiliation": "Avengers, Defenders, Illuminati"
+  },
+  {
+    "name": "Iron Man",
+    "universe": "Marvel",
+    "strengths": "Heightened Senses, Superhuman Strength, Regeneration, Genius Intelligence",
+    "groupAffiliation": "Avengers, Avengers West Coast, Illuminati, S.H.I.E.L.D"
+  },
+  {
+    "name": "Superhero",
+    "universe": "DC",
+    "strengths": "Power of Flight, Superhuman Strength, X-ray Vision, Heat Vision, Super-speed",
+    "groupAffiliation": "Justice League, Legion of Super-Heroes, Superman Family"
+  },
+  {
+    "name": "Wolverine",
+    "universe": "Marvel",
+    "strengths": "Heightened Senses, Regeneration, Superhuman Strength, Superhuman Durability, Superhuman Speed, Superhuman Reflexes",
+    "groupAffiliation": "X-Men"
+  },
+  {
+    "name": "Wonder Woman",
+    "universe": "DC",
+    "strengths": "Superior Strength, Speed, Agility, Hand-to-Hand Combat, Power of Flight",
+    "groupAffiliation": "Justice League, Justice League Dark, Justice League Task Force, Star Sapphire Corps"
+  }
+]
