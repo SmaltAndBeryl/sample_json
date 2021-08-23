@@ -1,0 +1,46 @@
+[
+	{
+		"jobId":1,
+		"jobTitle":"Online Marketing Executive",
+		"jobDescription":"Marketing executives oversee many aspects of a campaign throughout the entire lifespan of a product, service or idea. As such executives are likely to have a great deal of responsibility early on and will be required to manage their time and duties themselves",
+		"eligibilityCriteria":"Marketing opportunities are open to graduates from any degree discipline. However, a degree or postgraduate qualification in a subject such as marketing, economics, business, statistics or sociology may be beneficial or preferred by employers.",
+		"company":"Teamway HR Service",
+		"dateOfRecruitment":"2021-09-17",
+		"course":"All"
+	},
+	{
+		"jobId":2,
+		"jobTitle":"Cyber security specialist",
+		"jobDescription":"Cyber security, or IT security, is the technique used to protect computers and networks from criminal intrusion. Specialists in cyber security are among the most sought-after professionals in the tech sector as businesses and governments seek to fight off an increasingly daring and ruthless cohort of global cyber criminals and hackers. Skilled and dedicated security specialists work in this field that demands a mix of artistry and technical expertise. They need to be constantly one step ahead of the hackers and organised criminals behind a new crime wave.",
+		"eligibilityCriteria":"Both university graduates and school leavers can enter the cyber security profession. Graduates tend to need a degree related to computer science or in a STEM subject.",
+		"company":"Tata Consultancy Services",
+		"dateOfRecruitment":"2020-09-17",
+		"course":"B.Tech"
+	},
+	{
+		"jobId":3,
+		"jobTitle":"Data Analysts",
+		"jobDescription":"A data analyst is someone who scrutinises information using data analysis tools. The meaningful results they pull from the raw data help their employers or clients make important decisions by identifying various facts and trends.",
+		"eligibilityCriteria":"For graduates, the usual entry point is a degree in statistics, mathematics or a related subject involving maths, such as economics or data science. Other degrees are also acceptable if they include informal training in statistics as part of the course, for instance sociology or informatics.",
+		"company":"Sun IT Services",
+		"dateOfRecruitment":"2021-09-11",
+		"course":"B.Tech, BCA, B.Sc."
+	},
+	{
+		"jobId":4,
+		"jobTitle":"DevOps engineers",
+		"jobDescription":"The role of a devOps engineer combines aspects of a technical role and an IT operations role. While engineers are likely to be involved with coding, and a knowledge of coding languages and principles is required to find problems and build solutions, this is not the primary role of a devOps engineer. More senior engineers are likely to be more involved in the project management and planning side of development.",
+		"eligibilityCriteria":"DevOps engineer roles typically ask for a degree in a technical or a STEM (science, technology, engineering and mathematics) field, with some requiring applicants to have a masters degree. Strong degree results (at least a 2.1) are also usually desired by recruiters.",
+		"company":"Sky Time Pvt. Ltd.",
+		"dateOfRecruitment":"2021-08-20",
+		"course":"B.Tech(CSE/IT)"
+	},
+	{
+		"jobId":5,
+		"jobTitle":"Consultant",
+		"jobDescription":"Consultants offer advice and expertise to organisations to help them improve their business performance in terms of operations, profitability, management, structure and strategy. Although the workload can be heavy, consulting is a sociable profession with plenty of networking opportunities. The work stretches across a variety of areas, including management, strategy, IT, finance, marketing, HR and supply chain management.",
+		"eligibilityCriteria":"Graduates can have a degree in any discipline, although business, management, economics, mathematics or statistics can be advantageous for entry into some firms, and a 2.1 classification is usually required. However, some professional services firms have recently changed their entry criteria, making it not impossible to enter the profession with a 2.2. An MBA can lead to entry at a higher level, but normally only for candidates possessing several years of experience.",
+		"dateOfRecruitment":"2021-09-30",
+		"course":"All"
+	}
+]
