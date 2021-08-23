@@ -1,0 +1,47 @@
+[
+	{
+		"cropId":1,
+		"cropName":"Rice",
+		"aboutCrop":"Temperature: Between 22-32°C with high humidity. Rainfall: Around 150-300 cm. Soil Type: Deep clayey and loamy soil. Top Rice Producing States: West Bengal > Punjab > Uttar Pradesh > Andhra Pradesh > Bihar. It is the staple food crop of majority of Indian people. India is the second largest producer of rice in the world after China. In states like Assam, West Bengal and Odisha, three crops of paddy are grown in a year. These are Aus, Aman and Boro.National Food Security Mission, Hybrid Rice Seed Production and Rashtriya Krishi Vikas Yojana are few government initiatives to support rice cultivation.",
+		"cropImage":"https://img.etimg.com/thumb/msid-74742498,width-300,imgsize-263761,,resizemode-4,quality-100/rice-agencies.jpg",
+		"price":"20rs per kg",
+		"orders":10,
+		"postedBy":"tanmay@fastfarmers.in",
+		"addedOn":"2021-07-06",
+		"orderLimit":40
+	},
+	{
+		"cropId":2,
+		"cropName":"Wheat",
+		"aboutCrop":"India is the second largest producer after China. This is the second most important cereal crop and the main food crop, in north and north-western India. Success of Green Revolution contributed to the growth of Rabi crops especially wheat.",
+		"cropImage":"https://res.cloudinary.com/du8msdgbj/images/v1538992252/lwhlv9mnha3e9efk18lg/wheat-0.jpg",
+		"price":"15rs per kg",
+		"orders":12,
+		"postedBy":"nirmala@fastfarmers.in",
+		"addedOn":"2021-07-06",
+		"orderLimit":100
+	},
+	{
+		"cropId":3,
+		"cropName":"Millets ",
+		"aboutCrop":"These are also known as coarse grains, which have high nutritional value. Ragi is very rich in iron, calcium, other micro nutrients and roughage. Jowar is the third most important food crop with respect to area and production.",
+		"cropImage":"https://5.imimg.com/data5/VS/OP/CA/SELLER-3698782/foxtail-millet-500x500.jpg",
+		"price":"20rs per kg",
+		"orders":10,
+		"postedBy":"tanmay@fastfarmers.in",
+		"addedOn":"2021-07-06",
+		"orderLimit":40
+	},
+	{
+		"cropId":4,
+		"cropName":"Maize",
+		"aboutCrop":"India is the seventh largest producer worldwide. It is used both as food and fodder. Use of modern inputs such as High-Yielding Variety seeds, fertilisers and irrigation have contributed to the increasing production of maize.",
+		"cropImage":"https://economictimes.indiatimes.com/thumb/msid-66824856,width-1200,height-900,resizemode-4,imgsize-782290/maize-getty-1200.jpg",
+		"price":"40rs per kg",
+		"orders":10,
+		"postedBy":"tanmay@fastfarmers.in",
+		"addedOn":"2021-07-06",
+		"orderLimit":40
+	}
+	
+]
