@@ -1,0 +1,50 @@
+[
+	{
+		"question":"In which country did the Olympics originate?",
+		"optionOne":"France",
+		"optionTwo":"Greece",
+		"optionThree":"Germany",
+		"optionFour":"Switzerland",
+		"correctOption":"Greece"
+	},
+	{
+		"question":"What colors are the Olympic rings",
+		"optionOne":"Blue, yellow, black, green and red",
+		"optionTwo":"Blue, yellow, black, green and orange",
+		"optionThree":"Puple, pink, black, green and red",
+		"optionFour":"Violet, yellow, black, green and orange",
+		"correctOption":"Blue, yellow, black, green and red"
+	},
+	{
+		"question":"Which official Olympic value is correct?",
+		"optionOne":"Joy of effort",
+		"optionTwo":"Equity",
+		"optionThree":"Violence and Exploitation",
+		"optionFour":"Overcoming Adversity",
+		"correctOption":"Joy of effort"
+	},
+	{
+		"question":"The Olympic torch is a tribute to the fire that burned throughout the ancient Greek Olympic games honoring which goddess?",
+		"optionOne":"Iris",
+		"optionTwo":"Athena",
+		"optionThree":"Hestia",
+		"optionFour":"Penelope",
+		"correctOption":"Hestia"
+	},
+	{
+		"question":"Which city has hosted the Olympics three times?",
+		"optionOne":"New York",
+		"optionTwo":"Los Angeles",
+		"optionThree":"Toronto",
+		"optionFour":"London",
+		"correctOption":"London"
+	},
+	{
+		"question":"How many countries boycotted the 1980 Moscow Olympics?",
+		"optionOne":"58",
+		"optionTwo":"66",
+		"optionThree":"23",
+		"optionFour":"89",
+		"correctOption":"66"
+	}
+]
